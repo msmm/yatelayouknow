@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="btnComment">Comentarios</string>
+	<string name="commenting">Comentar</string>
+	<string name="no_comments">Esta publicación no tiene comentarios</string>
+	
+	<string name="profile">Perfil</string>
+	<string name="messages">Mensajes</string>
+	<string name="events">Eventos</string>
+	<string name="connections">Contactos</string>
+	<string name="promotions">Promociones</string>
+	<string name="coupons">Promociones</string>
+	<string name="photos">Fotos</string>
+	<string name="my_photos">Mis Fotos</string>
+	<string name="forums">Foros</string>
+	<string name="polls">Encuestas</string>
+	<string name="geolocation">Lugares</string>
+	<string name="store">Vielite Store</string>
+	<string name="news">Timeline</string>
+	<string name="directory">Directorio</string>
+	<string name="groups">Grupos</string>
+	<string name="qr">Código QR</string>
+	<string name="detail">Detalle</string>
+	<string name="settings">Editar Perfil</string>
+		
+	<string name="join_vielite">Regístrate en VIELITE</string>
+	<string name="BIENVENIDO">BIENVENIDO</string>
+	<string name="Directorio_empresas">Directorio empresas</string>
+	<string name="Registrarse">Registrarse</string>
+	<string name="forgot_password">Recuperar contraseña</string>
+	<string name="sign_in">Acceso a VIELITE</string>
+	<string name="check_in">Geolocalización</string>
+	<string name="login">Iniciar sesión</string>
+	<string name="logout">Salir</string>
+	<string name="account">Nombre de Usuario</string>
+	<string name="password">Contraseña</string>
+	<string name="home">Inicio</string>
+	<string name="apply">Guardar</string>
+	<string name="edit">Editar</string>
+	<string name="reload">Actualizar</string>
+	<string name="close">Cerrar</string>
+	<string name="send">Enviar</string>
+	<string name="done">Ok</string>
+	<string name="cancel">Cancelar</string>
+	<string name="save">Guardar</string>
+	<string name="loading">Cargando...</string>
+	
+	<string name="nice">V-Like</string>
+	
+	<string name="cerrar_flyer">Cerrar</string>
+	
+	<string name="Seguidores">Seguidores</string>
+	<string name="Siguiendo">Siguiendo</string>
+	
+	<string name="msgBienvenida">Para contestar un mensaje da click sobre él</string>
+	<string name="msgTituloBienvenida">Bienvenido por primera vez a Mensajes</string>
+	<string name="Detalle_del_Mensaje">Detalle del Mensaje</string>
+	
+	<string name="personal_info">Inf. Personal</string>
+	<string name="privacy">Privacidad</string>
+	<string name="professional">Profesional</string>
+	<string name="interests">Intereses</string>
+	<string name="Encuentra_amigos">Encuentra amigos</string>
+	<string name="Configurar_Servicios">Configurar servicios</string>
+	<string name="edit_profile">Editar perfil</string>
+	<string name="new_post">Nueva publicación</string>
+	<string name="notifications">Notificaciones</string>
+	<string name="face_twit">Facebook y Twitter</string>
+	<string name="policies">Políticas</string>
+	<string name="by_email">Por Coreo</string>
+	<string name="push">Notificaciones Push</string>
+	<string name="personal">Personal</string>
+	<string name="change_photo">Cambiar Foto de Perfil</string>
+
+	<string name="name">Nombre</string>
+	<string name="lastname">Apellido paterno</string>
+	<string name="lastname2">Apellido materno</string>
+	<string name="birthdate">Fecha de nacimiento</string>
+	<string name="select_date">Elegir fecha...</string>
+	<string name="gender">Sexo</string>
+	<string name="male">Masculino</string>
+	<string name="female">Femenino</string>
+	<string name="to_wall">Para </string>
+	
+	<string name="email">Correo electrónico</string>
+	<string name="birthplace">Lugar de nacimiento</string>
+	<string name="address">Domicilio</string>
+	<string name="address_detail">Calle y número</string>
+	<string name="address_detail2">Colonia</string>
+	
+	<string name="country">País</string>
+	<string name="select_country">Elegir país...</string>
+	<string name="state">Estado</string>
+	<string name="select_state">Elegir estado...</string>
+	<string name="city">Ciudad</string>
+	<string name="select_city">Elegir ciudad...</string>
+	<string name="zip_code">Código postal</string>
+	<string name="cellphone">Celular</string>
+	<string name="phone">Tel. Fijo</string>
+	
+	<string name="username">Nombre de usuario</string>
+	<string name="current_password">Contraseña actual</string>
+	<string name="new_password">Nueva contraseña</string>
+	<string name="confirm_password">Confirmar contraseña</string>
+	<string name="receive_notifications">Recibir notificaciones</string>
+	<string name="private_account">Cuenta Privada</string>
+	
+	<string name="company">Empresa</string>
+	<string name="profession">Profesión</string>
+	<string name="industry">Industria</string>
+
+	<string name="travel">Viajes</string>
+	<string name="cinema">Cine</string>
+	<string name="art">Arte</string>
+	<string name="golf">Golf</string>
+	<string name="running">Correr</string>
+	<string name="hunting">Cacería</string>
+	<string name="founding">Fundaciones</string>
+	<string name="music">Música</string>
+	<string name="fashion">Moda</string>
+	<string name="skating">Skating</string>
+	<string name="tennis">Tennis</string>
+	<string name="nightlife">Vida nocturna</string>
+	<string name="theather">Teatro</string>
+	<string name="photography">Fotografía</string>
+	<string name="wines">Vino</string>
+	<string name="polo">Polo</string>
+	<string name="soccer">Fútbol</string>
+	<string name="navigation">Navegar</string>
+	<string name="surfing">Surfing</string>
+	<string name="skiing">Esquiar</string>
+	
+	<string name="all_messages">Todo</string>
+	<string name="unread_messages">Sin leer</string>
+	<string name="read_messages">Leído</string>
+	<string name="sent_messages">Enviado</string>
+	<string name="deleted_messages">Borrado</string>
+	<string name="compose">Nuevo</string>
+	<string name="new_message">Nuevo mensaje</string>
+	<string name="reply_message">Responder mensaje</string>
+	<string name="delete_message">Eliminar</string>
+	<string name="mark_as_read">Marcar como leído</string>
+	<string name="mark_as_unread">Marcar como no leído</string>
+	<string name="report">Reportar</string>
+	<string name="reply">Responder</string>
+	<string name="delete">Eliminar</string>
+	<string name="message_from">De: </string>
+	<string name="message_to">Para: </string>
+	<string name="message_title">Título: </string>
+	<string name="message_subject">Asunto: </string>
+	
+	<string name="new_event">Nuevo evento</string>
+	<string name="my_events">Míos</string>
+	<string name="invited">Invitado</string>
+	<string name="public_events">Públicos</string>
+	<string name="vielite_events">Vielite</string>
+
+	<string name="pull_to_refresh">Tira hacia abajo para actualizar...</string>
+	<string name="release_to_refresh">Suelta para actualizar...</string>
+	<string name="reloading">Actualizando...</string>
+	<string name="last_updated">Última actualización: </string>
+	<string name="am">am</string>
+	<string name="pm">pm</string>
+	
+	<string name="select_group">Selecciona un grupo</string>
+	<string name="all_contacts">(Todos)</string>
+	<string name="no_group_selected">Actualmente no se encuentra seleccionado ningún grupo, presiona el botón \"Grupos\" para mostrar una lista.</string>
+	<string name="no_group_selected_android">Actualmente no se encuentra seleccionado ningún grupo, presiona el botón de menú en tu dispositivo para desplegar la lista de grupos.</string>
+	
+	<string name="scan_code">Escanear otro QR</string>
+	<string name="my_qr_code">Mi código QR</string>
+	
+	<string name="let_us_know_your_location">Comparte tu ubicación</string>
+
+	<string name="sunday">Domingo</string>
+	<string name="monday">Lunes</string>
+	<string name="tuesday">Martes</string>
+	<string name="wednesday">Miércoles</string>
+	<string name="thursday">Jueves</string>
+	<string name="friday">Viernes</string>
+	<string name="saturday">Sábado</string>
+	<string name="just_now">Justo ahora</string>
+	<string name="about_minute_ago">Hace un minuto</string>
+	<string name="about_hour_ago">Hace una hora</string>
+	<string name="day_at_hour">a las %d</string>
+	<string name="x_minutes_ago">Hace %d minutos</string>
+	<string name="x_hours_ago">hace %d horas</string>
+	<string name="x_days_ago">Hace %d días</string>
+	<string name="yesterday">Ayer</string>
+	<string name="at"> a las </string>
+
+	<string name="sent">Enviados</string>
+	<string name="inbox">Recibidos</string>
+	<string name="no_message">Debes escribir un mensaje</string>
+	<string name="no_contacts">No has seleccionado a quien mandar el mensaje</string>
+	<string name="new_title">Asunto</string>
+	<string name="camera">Tomar foto</string>
+	<string name="album">Seleccionar del álbum</string>
+	<string name="dont_follow_user">Actualmente no sigues a este usuario.</string>
+	<string name="enterprise_profile">Este perfil corresponde a una empresa.</string>
+	<string name="following">Siguiendo</string>
+	<string name="followers">Seguidores</string>
+	
+	<string name="publicar_mensaje">publicar mensaje</string>
+	<string name="publicar_foto">publicar foto</string>
+	
+	
+	<string name="register_title">Regístrate en</string>
+	<string name="register_titlee"> VIELITE</string>
+	<string name="register_fbLogin">Regístrate con facebook</string>
+	<string name="register_nombre">*Nombre(s)</string>
+	<string name="register_apaterno">*Apellido Paterno</string>
+	<string name="register_amaterno">Apellido Materno</string>
+	<string name="register_email">*E-mail</string>
+	<string name="register_ciudad">Ciudad</string>
+	<string name="register_cp">*Código Postal</string>
+	<string name="register_fechanac">*Fecha de Nacimiento</string>
+	<string name="register_sexo">*Sexo</string>
+	<string name="register_Usuario">*Usuario</string>
+	<string name="register_Contraseña">*Contraseña</string>
+	<string name="register_ConfirmarContraseña">*Confirmar Contraseña</string>
+
+	<string name="fgtpwd_title">Recupera tu        </string>
+	<string name="fgtpwd_titlee">contraseña</string>
+	<string name="fgtpwd_subtitle">Ingresa tu correo electrónico</string>
+	<string name="fgtpwd_boton">Recuperar contraseña</string>
+	
+	<string name="selArea_title">Selecciona tu</string>
+	<string name="selArea_titlee">area</string>
+	
+	<string name="eliminar_title">¿Desea eliminar esta publicación?</string>
+	<string name="eliminar_text">Eliminar</string>
+	
+	<string name="reportar_title">¿Desea reportar esta publicación?</string>
+	<string name="reportar_text">Reportar</string>
+	
+	<string name="califica">Califica la empresa \n %s</string>
+	<string name="atras">Atrás</string>
+	
+</resources>
