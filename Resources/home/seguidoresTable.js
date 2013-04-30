@@ -243,7 +243,6 @@ function reloadViejasTable() {
          var video = Ti.UI.createImageView({
             image: datos.thumbnail,
            hires:true,
-            height:alto,
             defaultImage:'images/fotodefault.png',
             width:anchoTabla,
             touchEnabled:false

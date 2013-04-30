@@ -244,7 +244,6 @@ vielite.events.loginSuccess = function(evt) {
 
 //Push Notifications Register  mode 0 register || mode 1 Deregister
 vielite.events.registerPush = function(mode) {
-//Ti.API.info('Registered');
 
 Ti.Network.registerForPushNotifications({    types: [      Ti.Network.NOTIFICATION_TYPE_BADGE,      Ti.Network.NOTIFICATION_TYPE_ALERT    ],    success:function(e) {      var deviceToken = e.deviceToken;     	var client = Ti.Network.createHTTPClient({         // function called when the response data is available         onload : function(e) {         	//alert(this.responseText);
          	         },         // function called when an error occurs, including a timeout         onerror : function(e) {             Ti.API.debug(e.error);             alert('Tu conexión no es buena');         },         timeout : 10000  // in milliseconds     });     // Prepare the connection.     client.open("GET", siteLocation + 'pushNotif.php?token='+e.deviceToken+'&idUser='+vielite.data.user.userID+'&mode='+mode);     // Send the request.     client.send();    },    error:function(e) {     // alert("push notifications disabled: "+ JSON.stringify(e));    },    callback:function(e) {

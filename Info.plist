@@ -32,9 +32,9 @@
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>1.0</string>
+	<string>2.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string>
+	<string>2.0</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIPrerenderedIcon</key>
@@ -42,6 +42,7 @@
 	<key>CFBundleIconFiles</key>
 	<array>
 		<string>appicon.png</string>
+		<string>appicon@2x.png</string>
 	</array>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
